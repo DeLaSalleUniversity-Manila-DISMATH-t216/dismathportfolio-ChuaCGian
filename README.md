@@ -18,3 +18,8 @@ dismathportfolio-ChuaCGian created by Classroom for GitHub
 - I learned the basics for Rules of Inference.
 - I learned how to solve the logical equations.
 - I learned what the word Tautology meant and how to solve for them.
+
+## Week 4
+- I learned about Vacuous and Trivial Proof
+- I learned about Proof by Contraposition and Contradiction
+- I learned about Proof by Induction
