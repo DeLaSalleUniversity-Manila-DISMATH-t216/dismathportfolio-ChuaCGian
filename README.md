@@ -20,6 +20,15 @@ dismathportfolio-ChuaCGian created by Classroom for GitHub
 - I learned what the word Tautology meant and how to solve for them.
 
 ## Week 4
-- I learned about Vacuous and Trivial Proof
-- I learned about Proof by Contraposition and Contradiction
-- I learned about Proof by Induction
+- I learned about Vacuous and Trivial Proof.
+- I learned about Proof by Contraposition and Contradiction.
+- I learned about Proof by Induction.
+
+## Week 5
+- I learned about Symmetric Differences.
+- I learned about Recursive Functions.
+
+## Week 6
+- I learned about Cardinalities.
+- I learned about alephnought: the cardinality of all natural numbers.
+- I learned about one-to-one and onto funtions.
