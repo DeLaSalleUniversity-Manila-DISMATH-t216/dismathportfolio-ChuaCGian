@@ -32,3 +32,25 @@ dismathportfolio-ChuaCGian created by Classroom for GitHub
 - I learned about Cardinalities.
 - I learned about alephnought: the cardinality of all natural numbers.
 - I learned about one-to-one and onto funtions.
+
+## Week 7
+- No Classes
+
+## Week 8
+- I learned about Algorithms.
+- I learned about Pseudocodes.
+
+## Week 9
+- I learned about an algorithm used to search for the maximum or minimum number in a given set.
+- I learned about Binary and Linear search algorithms.
+
+## Week 10
+- I learned about Bubble Sort Algorithm.
+- I learned about Insertion Sort Algorithm.
+- I learned about Greedy Algorithm.
+
+## Week 11
+- I learned about Growth of Functions.
+- I learned about Big-O Notation.
+- I learned about Big-Omega Notation.
+- I learned about Big-Theta Notation.
