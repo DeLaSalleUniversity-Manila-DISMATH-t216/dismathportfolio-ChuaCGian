@@ -54,3 +54,14 @@ dismathportfolio-ChuaCGian created by Classroom for GitHub
 - I learned about Big-O Notation.
 - I learned about Big-Omega Notation.
 - I learned about Big-Theta Notation.
+
+## Week 12
+- I learned about Graph Theory.
+- I learned about Euler and Hamilton Paths and Circuits.
+
+## Week 13
+- I learned about Graph Coloring
+- I learned about Trees
+- I learned about Modeling Computation
+- I learned about Automata Theory
+- I learned about the Turing Machine
